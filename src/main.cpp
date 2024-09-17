@@ -1,12 +1,3 @@
-/**
- * Embedded Challenge Fall 2023
- * 
- * This code simulates the game called "Pass it on!" using Adafruit Classic Playground boards.
- * In this "game" we try to transmit a certain message between the team members, and if successfull,
- * we should get the original message from the last team member.
- * 
- * 
- */
 
 #include <Arduino.h>
 #include <Adafruit_CircuitPlayground.h>
